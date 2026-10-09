@@ -80,7 +80,7 @@ Getting Started
 1. Clone the repository
 Open a terminal and run:
 
-git clone https://github.com/TusharBagle/PR.-1-Expectation-Decider.git
+git clone [https://github.com/TusharBagle/PR.-1-Expectation-Decider.git](https://github.com/singhnitin788086-dot/Expectation_Decider_pr-1/tree/main)
 cd PR.-1-Expectation-Decider
 2. Review the files
 Open the repository in your preferred code editor. Identify:
