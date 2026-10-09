@@ -167,4 +167,4 @@ License
 No license information has been confirmed for this repository. Check whether a LICENSE file exists. If you want others to use, modify, and distribute the project under specific terms, add an appropriate license after reviewing its requirements.
 
 Author
-Tushar Bagle
+Nitin Singh
